@@ -6,7 +6,9 @@ import api from './services/Api';
 function App() {
 
   const [input, setInput] = useState('')
+
   const [cep, setCep] = useState({})
+  
     async function handleSearch(){
     // http://viacep.com.br/ws/01310930/json/
     if(input === ""){
