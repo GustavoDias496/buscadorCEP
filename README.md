@@ -46,7 +46,9 @@ Ele será usado como exemplo no seminário sobre React JS.
 ### Softwares necessários para construção da aplicação
 
 1-Node.JS
+
 2-React JS
+
 3-Visual Studio Code (Opcional)
 
 ### Passo a passo para criação da aplicação
