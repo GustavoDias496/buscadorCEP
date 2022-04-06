@@ -2,6 +2,14 @@
 
 Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
 
+## Como rodar o projeto pelo nosso site
+
+Link do site -> https://buscador-cep-five.vercel.app/
+
+Para conseguir consultar os CEPs sem erro você deve habilitar a opção de "conteúdo não seguro", para fazer isso basta clicar 
+co cadeado do lado da url do site, depois disso acesse "Configurações do site" e depois vá em "conteúdo não seguro" e 
+habilite a opção.
+
 ## Como rodar o projeto
 
 Para rodar o projeto será necessario a intalação do Node.JS e do React JS.
